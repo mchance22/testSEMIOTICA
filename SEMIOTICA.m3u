@@ -1,14 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,CHILE | CANAL 13
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/537
 #EXTINF:-1 ,PERU | GOL PERU
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/463
 #EXTINF:-1,PE | Gol Peru
 https://s1.dominiopersonal.xyz:2083/gratis/HGLNAluUXg/195
-#EXTINF:0,GOL TV PERU (i)
-#EXTVLCOPT:http-user-agent=UniversoSport
-http://45.90.105.74:25461/Universochingatuculo/HA280622/41212
-#EXTINF:-1 ,GOL PERU : PE
-#EXTVLCOPT:http-user-agent=Micros0ft2.0.1
-http://s1.smartersapp.net/live/UsEr14Sports90e/Pass90SpOrs16/141.ts
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/686
